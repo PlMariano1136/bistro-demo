@@ -1,9 +1,9 @@
 /* Paleta de Cores Elegante */
 :root {
-    --primary-color: #005b96; /* Laranja Bistrô */
-    --primary-hover: #e67e22;
-    --dark-bg: #1a1a1a;
-    --light-bg: #fdfbf7; /* Off-white chique */
+    --primary-color: #d86821; /* Laranja da logo */
+    --primary-hover: #b95719;
+    --dark-bg: #4a5c39; /* Verde-oliva do fundo da arte */
+    --light-bg: #fdfbf7;
     --text-dark: #333333;
     --text-light: #ffffff;
     --font-heading: 'Playfair Display', serif;
